@@ -202,11 +202,14 @@ def main():
             st.markdown(""" 
 			#### Built with Streamlit
 			## By
-			+ Devashree Pravakar
+			+ Mustkeem Baraskar
 			""")
-            st.markdown("""+ Arindam Rao""")
-            st.markdown("""+ Kintali Pardha Saradhi""")
-            url = 'https://github.com/devashree1923/News-Classification'
+            st.markdown("""+ Sanket Pawar""")
+            st.markdown("""+ Onkar Kudage""")
+            st.markdown("""+ Shreyash Dalvi""")
+            st.markdown("""+ Mihir Vanave""")
+            st.markdown("""+ Sudarshan Bhosale""")
+            url = 'https://github.com/HeLLLuci'
             if st.button('Github'):
                 webbrowser.open_new_tab(url)
 
